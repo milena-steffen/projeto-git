@@ -1,4 +1,4 @@
-function busca(){
-    window.location.href = 'https://git-scm.com/';
+function buscar(){
+    window.open ('https://git-scm.com/' , '_blank');
 }
 
